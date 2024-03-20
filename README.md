@@ -4,4 +4,5 @@ Building accurate thematic maps (such as choropleth maps) from very big georefer
 
 ***Team***
 - Dr. Isam Al Jawarneh (Supervisor)
-- write your name
+- Aesheh Essa - U23105572
+- Shaima Yousif - U23200845
