@@ -38,4 +38,5 @@ also interesting:
     - 
 ***team***
 - [Dr. Isam Al Jawarneh](https://isamaljawarneh.github.io/) (***supervisor***)
-- [Aesha]()
+- [Aesheh Essa]()
+- [Shaima Yousif]()
