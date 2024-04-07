@@ -1,5 +1,22 @@
 # instructions
 ## follow the following instructions
+-----------------------
+<!-- Task 2 -->
+# [ ] Task 2! 
+# `Update: April 7, 2024`
+### `N.B.` references are available in the end of this instruction file!
+# `Required OPTIMIZATION ==> IMPORTANT!`
+## `TODO:` 
+- you need to perform stratified-like sampling using `H3` and `Google's S2` similar to what has bee done with the `geohash` as per the examples attached in the starting code and those dicussed in the class, then you need to generate choropleth maps from the `original` and `sample` data, then compare the maps using metrics such as RMSE, RMSD, MAE, MAPE, R-Square
+  - to calculate any of these metrics to test the accuracy, you need to group data into two distributions, one for the original and one for the simplified, then calculate those metrics as distances between distributions.
+
+  Here, I am coding an example for RMSE, MAPE, Pearson, KL Divergence and other metrics for the count and Top-N respectively. That is to say, how much is the difference in count of `taxi` trips between the original data and the sampled data for each neighborhood in New York City (NYC). attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb` in the `code` folder.
+
+  TODO:
+  - you need to apply the same methods for the distribution of the averages, by how much the distribution of averages across neighborhoods in city-wide diverge for the simplified version data as compared to the original data
+  - You need to apply the same methods to data sampled using `H3` and Google's `S2`, similar to what has been done with the geohash in the attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb`
+
+----------------------------------------------
 1. [ ] run the example starting code and familiarize yourself with some geosaptial processing techniques, including:
     - sampling
     - spatial join
