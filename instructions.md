@@ -17,7 +17,17 @@
   - You need to apply the same methods to data sampled using `H3` and Google's `S2`, similar to what has been done with the geohash in the attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb`
   - You also need to measure `running time` for each method, comparing the times required to generate choropleth maps using a sample withdrawn by `geohash`, or `H3` or `Google's S2`, then you compare this running time with time required for generating map using original data `without sampling`. Capture sampling fraction in `x-axis` and `running time` in `seconds` in the `y-axis`. something similar to the following:
 ![running_time](https://github.com/Dr-Isam-ALJAWARNEH/ds-project-Stratified-based-Geospatial-Online-Sampling/assets/15251404/2ff067ea-75bf-4c99-b0c8-59595547d3e9)
-   
+-------------------------------------------------
+<!-- Task 3 -->
+# [ ] Task 3! 
+  # `TODO:` next
+- apply everything you have done (and you need to do in `task2`) to a second dataset, probably `low cost air quality data`, that is [available online](https://raw.githubusercontent.com/IsamAljawarneh/datasets/master/data/NYC_AQ.csv). the target variable is `pm25`. You need to capture `accuracy` and `running time` as described previously.
+
+--------------------------------------------
+<!-- Task 4 -->
+# [ ] Task 4!
+writing your paper
+instructions `TBC`
 ----------------------------------------------
 1. [ ] run the example starting code and familiarize yourself with some geosaptial processing techniques, including:
     - sampling
