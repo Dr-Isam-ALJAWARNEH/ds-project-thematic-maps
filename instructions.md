@@ -27,9 +27,14 @@
 <!-- Task 4 -->
 # [ ] Task 4!
 ## writing your paper
+
+
 # `IMPortant` test with more than one data, add NYC taxi mobility data (for journal paper, you need tests on more than one data):
 [available online](https://github.com/IsamAljawarneh/datasets/tree/master/data), `nyc1.zip`
 - start writing your paper, either for conferences or journal. For journal, use the `applied sciences` template atatched in the `target-venue` folder titled `applsci-template.dot`.
+- you can also consider one of the following two conference (the template for IEEE conferences is attached), you can also use `overleaf` or `latex`
+    - [MCNA - Spain](https://mcna-conference.org/2024/committee.php)
+    - [IDSTA - Croatia](https://idsta-conference.org/2024/calls.php)
 1.  [ ] Include (cite appropriately) all of the following papers! reference papers include:
     # Category A : for sampling desing and Approximate Query Processing (AQP)
     > Spatial-aware approximate big data stream processing [^2] and
