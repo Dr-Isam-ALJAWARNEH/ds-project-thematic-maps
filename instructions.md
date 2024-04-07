@@ -31,7 +31,10 @@
 there is my recent paper [^1] `very similar` which you can use as a springboard to start writing your paper, I uploaded a copy [`confidential please, for access by collaborators only!] to the `literature` folder titled `Efficient Generation of Approximate Region-based Geo-maps from Big Geotagged Data`. Use it as a starting point. However, you need also to cite our other papers detailed below!
 # `IMPortant` test with more than one data, add NYC taxi mobility data (for journal paper, you need tests on more than one data):
 [available online](https://github.com/IsamAljawarneh/datasets/tree/master/data), `nyc1.zip`
-- start writing your paper, either for conferences or journal. For journal, use the `applied sciences` template atatched in the `target-venue` folder titled `applsci-template.dot`.
+- start writing your paper, either for conferences or journal. For journal, use the `applied sciences` template atatched in the `target-venue` folder titled `applsci-template.dot`. (minimum 10 pages)
+- or even, consider one of the following two conference (IEEE template for those conferences is attached) (minimum 6 pages)
+    - [MCNA - Spain](https://mcna-conference.org/2024/committee.php)
+    - [IDSTA - Croatia](https://idsta-conference.org/2024/calls.php)
 1.  [ ] Include (cite appropriately) all of the following papers! reference papers include:
     # Category A : for sampling desing and Approximate Query Processing (AQP)
     > Spatial-aware approximate big data stream processing [^2] and
