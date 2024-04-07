@@ -15,8 +15,9 @@
   # `TODO:`
   - you need to apply the same methods for the distribution of the averages, by how much the distribution of averages across neighborhoods in city-wide diverge for the simplified version data as compared to the original data
   - You need to apply the same methods to data sampled using `H3` and Google's `S2`, similar to what has been done with the geohash in the attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb`
-  - You also need to measure `running time` for each method, comparing the times required to generate choropleth maps using a sample withdrawn by `geohash`, or `H3` or `Google's S2`, then you compare this running time with time required for generating map using original data `without sampling`. Capture sampling fraction in `x-axis` and `running time` in `seconds` in the `y-axis`.
-
+  - You also need to measure `running time` for each method, comparing the times required to generate choropleth maps using a sample withdrawn by `geohash`, or `H3` or `Google's S2`, then you compare this running time with time required for generating map using original data `without sampling`. Capture sampling fraction in `x-axis` and `running time` in `seconds` in the `y-axis`. something similar to the following:
+![running_time](https://github.com/Dr-Isam-ALJAWARNEH/ds-project-Stratified-based-Geospatial-Online-Sampling/assets/15251404/2ff067ea-75bf-4c99-b0c8-59595547d3e9)
+   
 ----------------------------------------------
 1. [ ] run the example starting code and familiarize yourself with some geosaptial processing techniques, including:
     - sampling
