@@ -12,7 +12,7 @@
 
   Here, I am coding an example for RMSE, MAPE, Pearson, KL Divergence and other metrics for the count and Top-N respectively. That is to say, how much is the difference in count of `taxi` trips between the original data and the sampled data for each neighborhood in New York City (NYC). attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb` in the `code` folder.
 
-  TODO:
+  # `TODO:`
   - you need to apply the same methods for the distribution of the averages, by how much the distribution of averages across neighborhoods in city-wide diverge for the simplified version data as compared to the original data
   - You need to apply the same methods to data sampled using `H3` and Google's `S2`, similar to what has been done with the geohash in the attached example notebook titled `stratified_sampling_RMSE_mobility_NYC.ipynb`
   - You also need to measure `running time` for each method, comparing the times required to generate choropleth maps using a sample withdrawn by `geohash`, or `H3` or `Google's S2`, then you compare this running time with time required for generating map using original data `without sampling`. Capture sampling fraction in `x-axis` and `running time` in `seconds` in the `y-axis`.
